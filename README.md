@@ -72,4 +72,4 @@ export default App;
 ```
 
 - Example Image
-<img src="https://i.postimg.cc/k41WsKqL/sample-image.png" width="292.5" height="633">
+<img src="https://i.postimg.cc/HWv6L1FK/sample-image.png" width="292.5" height="633">
